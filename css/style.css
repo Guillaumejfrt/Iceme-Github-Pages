@@ -75,3 +75,12 @@ body {
 	background-color: #109a8c;
 	height: 3em;
 }
+
+#mc-embedded-subscribe {
+	background-color: #109a8c;
+}
+
+#mce-EMAIL {
+	text-decoration: underline;
+
+}
