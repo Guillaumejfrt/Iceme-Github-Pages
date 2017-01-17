@@ -1,0 +1,77 @@
+body {
+	background-image: url("../images/grid.jpg");
+	font-family: "open sans";
+}
+
+#footer{
+	background-color: black;
+	color:#aaaaaa;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+#footer a {
+	color:#aaaaaa;
+}
+
+#footer a:hover {
+	color: #dddddd;
+}
+
+.social a {
+	font-size: 24px;
+}
+
+#wrapper {
+	background-image: url(../images/background/IMG_20160714_210003.jpg);
+	height: 550px;
+	background-size:cover;
+	text-align: center;
+	padding-top: 150px;
+	color:white;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+#wrapper h1 {
+	font-size:50px;
+}
+
+#wrapper h2 {
+	font-size: 18px;
+	margin-bottom: 1em;
+} 
+
+.spacer {
+	height: 8em;
+}
+
+.feature p{
+	font-weight: 300;
+	letter-spacing: 2px;
+}
+
+.feature img {
+	margin-bottom: 2em;
+}
+
+.navbar-transparent {
+	background-color: rgba(255, 255, 255);
+}
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: #109a8c;
+}
+
+
+.navbar-transparent .navbar-nav > li > a:hover {
+	color: #109a8c;
+	text-decoration: underline;
+	border-bottom:1px solid #FFF;
+	
+}
+
+#profile {
+	background-color: #109a8c;
+	height: 3em;
+}
