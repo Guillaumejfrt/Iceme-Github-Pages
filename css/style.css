@@ -46,7 +46,7 @@ body {
 }
 
 .feature p{
-	font-weight: 300;
+	font-weight: 200;
 	letter-spacing: 2px;
 }
 
@@ -89,6 +89,6 @@ body {
 }
 
 .symbol{
-	font-size: 250%;
+	font-size: 400%;
 	padding-bottom: 1em;
 }
