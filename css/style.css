@@ -63,12 +63,10 @@ body {
   color: #109a8c;
 }
 
-
 .navbar-transparent .navbar-nav > li > a:hover {
 	color: #109a8c;
 	text-decoration: underline;
 	border-bottom:1px solid #FFF;
-	
 }
 
 #profile {
