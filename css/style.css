@@ -14,10 +14,6 @@ body {
 	color:#aaaaaa;
 }
 
-#footer a:hover {
-	color: #dddddd;
-}
-
 .social a {
 	font-size: 24px;
 }
@@ -43,6 +39,10 @@ body {
 
 .spacer {
 	height: 8em;
+}
+
+.spacer2{
+	height: 1em;
 }
 
 .feature p{
@@ -91,4 +91,13 @@ body {
 .symbol{
 	font-size: 400%;
 	padding-bottom: 1em;
+}
+
+#concept {
+	padding-bottom: 1em;
+}
+
+#features{
+	border:2px solid gray;
+	padding-top:20px;
 }
