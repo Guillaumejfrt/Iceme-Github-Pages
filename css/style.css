@@ -87,3 +87,8 @@ body {
 	height: 40px;
 	padding-bottom: 13px;
 }
+
+.symbol{
+	font-size: 250%;
+	padding-bottom: 1em;
+}
